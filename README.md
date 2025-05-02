@@ -1,2 +1,3 @@
-#lanGG
+## lanGG
+
 best way to learn languages
